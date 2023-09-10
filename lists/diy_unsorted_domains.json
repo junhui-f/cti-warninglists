@@ -1,0 +1,17 @@
+{
+    "description": "Unsorted Custom Domain List",
+    "list": [
+        "apple.com",
+        "icloud.com",
+        "itunes.com",
+        "cdn-apple.com",
+        "apple-dns.net",
+        "apple-cloudkit.com"
+    ],
+    "matching_attributes": [
+        "domain"
+    ],
+    "name": "DIY - Unsorted Custom Domain List",
+    "type": "hostname",
+    "version": 1
+}

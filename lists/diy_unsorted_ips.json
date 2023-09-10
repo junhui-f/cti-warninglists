@@ -1,0 +1,12 @@
+{
+    "description": "Unsorted Custom IPv4 List",
+    "list": [
+    ],
+    "matching_attributes": [
+        "ip-src",
+        "domain|ip"
+    ],
+    "name": "DIY - Unsorted Custom IPv4 List",
+    "type": "cidr",
+    "version": 1
+}
