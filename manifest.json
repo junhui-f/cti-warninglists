@@ -9,7 +9,9 @@
         "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/rfc6598/list.json",
         "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/rfc5735/list.json",
         "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/rfc1918/list.json",
-        "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/censys-scanning/list.json"
+        "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/censys-scanning/list.json",
+        "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/crl-hostname/list.json",
+        "https://raw.githubusercontent.com/MISP/misp-warninglists/main/lists/crl-ip/list.json"
     ],
     "lists_diy": [
         "https://raw.githubusercontent.com/junhui-f/cti-warninglists/main/lists/diy_aws_cloudfront_ips.json",
